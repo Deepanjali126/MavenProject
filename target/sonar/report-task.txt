@@ -1,0 +1,6 @@
+projectKey=poc:Pocpl
+serverUrl=http://localhost:9000
+serverVersion=7.6.0.21501
+dashboardUrl=http://localhost:9000/dashboard?id=poc%3APocpl
+ceTaskId=AWmUnxFZYAKivk67bDaN
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWmUnxFZYAKivk67bDaN
